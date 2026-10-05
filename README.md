@@ -2,6 +2,12 @@
 
 A lightweight facial-expression-aware interactive mirror built with ResNet18, YuNet and Gradio.
 
+## Demo
+
+![MoodMate Demo](assets/demo.png)
+
+
+
 ## Overview
 
 MoodMate is an AI interaction demo designed around a smart-mirror concept.
